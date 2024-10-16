@@ -1,7 +1,6 @@
-# terraform-module-gcp-serverless-negs
-Fork of terraform-google-lb-http module with additional customization
-
 # Global HTTP Load Balancer Terraform Module for Serverless NEGs
+
+Fork of terraform-google-lb-http module with additional customization
 
 This submodule allows you to create Cloud HTTP(S) Load Balancer with
 [Serverless Network Endpoint Groups (NEGs)](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
